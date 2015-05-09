@@ -1,0 +1,23 @@
+{
+  "name": "webpack-on-rails-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-loader": "^0.7.2",
+    "coffee-react": "^2.1.2",
+    "coffee-script": "^1.9.2",
+    "webpack": "^1.8.9",
+    "webpack-dev-server": "^1.8.2"
+  },
+  "dependencies": {
+    "baobab": "^1.1.0",
+    "baobab-react": "^0.1.0",
+    "react": "^0.13.2"
+  }
+}
